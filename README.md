@@ -11,10 +11,10 @@
 ## 🚀 About Me
 
 - 👋 Hi, I'm **Neeraj**  
-- 🎓 First-year **CSE** student  
+- 🎓 First year **CSE** student  
 - 💻 Web Developer & Programmer  
-- ⚙️ Focused on Backend — APIs, Databases, and Server-side logic  
-- 🚀 Exploring full-stack development & building real-world projects  
+- ⚙️ Focused on Backend APIs, Databases, and Server side logic  
+- 🚀 Exploring full-stack development & building real world projects  
 - 🌱 Always learning, always building  
 
 ---
