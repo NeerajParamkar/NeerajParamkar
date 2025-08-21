@@ -17,7 +17,11 @@
 - 🌱 Always learning, always building  
 
 ---
-
+  <a align="center" href="https://neerajparamkar.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-gray.svg?style=for-the-badge&logo=&logoColor=black" />
+  </a>
+  
+---
 ## 💻 Tech Stack:
 
 <div style="display: flex; align-items: flex-start; align: center">
