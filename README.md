@@ -17,7 +17,7 @@
 - 🌱 Always learning, always building  
 
 ---
-  <a align="center" href="https://neerajparamkar.vercel.app/">
+  <a align="center" href="https://neerajparamkar.vercel.app/" target="_blank" title="Visit My Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-gray.svg?style=for-the-badge&logo=&logoColor=black" />
   </a>
   
