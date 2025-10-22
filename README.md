@@ -8,13 +8,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 👋 Hi, I'm **Neeraj**  
-- 💻 Web Developer & Programmer  
-- ⚙️ Focused on Backend APIs, Databases, and Server side logic  
-- 🚀 Exploring full-stack development & building real world projects  
-- 🌱 Always learning, always building  
+-  Hi, I'm **Neeraj**  
+-  Web Developer & Programmer  
+-  Focused on Backend APIs, Databases, and Server side logic  
+-  Exploring full-stack development & building real world projects  
+-  Always learning, always building  
 
 ---
   <a align="center" href="https://neerajparamkar.vercel.app/" target="_blank" title="Visit My Portfolio">
@@ -22,7 +22,7 @@
   </a>
   
 ---
-## 💻 Tech Stack:
+##  Tech Stack:
 
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
@@ -97,7 +97,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neerajparamkar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="49%" />
@@ -108,7 +108,7 @@
 
 ---
 
-## 🧠 LeetCode Stats
+##  LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/neerajparamkar?theme=dark&font=Fira+Code&ext=heatmap" width="50%"/>
@@ -116,7 +116,7 @@
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <div align="center">
   <a href="https://github.com/NeerajParamkar">
@@ -135,4 +135,4 @@
 
 ---
 
-<p align="center"><b>✨ Let’s collaborate and build something amazing together!</b></p>
+<p align="center"><b> Let’s collaborate and build something amazing together!</b></p>
